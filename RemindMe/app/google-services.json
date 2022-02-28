@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649682477558",
+    "project_id": "remindme-app-5b81a",
+    "storage_bucket": "remindme-app-5b81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649682477558:android:14d591beebab65aef7a7d7",
+        "android_client_info": {
+          "package_name": "tn.erikaserquina.remindme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649682477558-i7bdg4mc5sn0b968bnjmps660cq3kccm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_6hzkh9_A01Tyw8ZRM9m6ddGvnXAU-Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649682477558-i7bdg4mc5sn0b968bnjmps660cq3kccm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
